@@ -1,0 +1,30 @@
+22:17:50 - [42383] System a comecar...
+22:17:50 - [42383] A verificar o Config File
+22:17:50 - [42383] A Criar a Shared Memory
+22:17:50 - [42383] A Criar o semaforo da Shared Memory
+22:17:50 - [42383] A Criar a Message Queue
+22:17:50 - [42383] A Criar o Authorization Requests Manager
+22:17:50 - [42383] A Criar Monitor Engine
+22:17:50 - [42383] A espera que todos os processos acabem
+22:17:50 - [42384] A comecar o Authorization Requests Manager
+22:17:50 - [42384] A Criar e abrir o named pipe BACK_PIPE
+22:17:50 - [42384] A Criar e abrir o named pipe USER_PIPE
+22:17:50 - [42384] Um novo Authorization Engine foi criado
+22:17:50 - [42384] A Criar as Threads Sender e Receiver
+22:17:50 - [42386] A inicializar Monitor Engine
+
+22:17:50 - [42387] Auth Engine iniciado
+22:17:50 - [42384] Receiver Thread inicializada
+22:17:50 - [42386] Stats Thread vai comecar
+22:17:50 - [42384] Sender Thread inicializada
+22:17:51 - [42383] Sinal recebido (^C)!
+22:17:51 - [42383] Hard Closing tudo
+22:17:51 - [42383] A fechar as Threads
+22:17:51 - [42383] A fechar todos os processos
+22:17:51 - [42383] A fechar os Authorization Engines
+22:17:51 - [42383] A fechar os nammed pipes
+22:17:51 - [42383] A Fechar os mutexes e as conditional variables
+22:17:51 - [42383] A fechar a Message Queue
+22:17:51 - [42383] A fechar o Shared Memory Semaphor
+22:17:51 - [42383] A fechar a Shared Memory
+22:17:51 - [42383] A fechar o log file
